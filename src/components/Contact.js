@@ -21,7 +21,7 @@ const Contact = () => {
           name='_replyto'
         />
         <button type = 'submit' className = 'submit-btn'>
-          subsribe
+          subscribe
         </button>
       </form>
       </div>
